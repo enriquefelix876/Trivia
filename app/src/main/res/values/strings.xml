@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="sonora">Sonora</string>
+    <string name="sinaloa">Sinaloa</string>
+    <string name="chihuahua">Chihuahua</string>
+    <string name="titulo">Indica la capital de los siguientes estados</string>
+    <string name="indicar">Indica la capital de</string>
+    <string name="calificar">Calificar</string>
+</resources>
